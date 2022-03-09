@@ -17,3 +17,25 @@
     font-family: 'Poppins', sans-serif;
     text-align: center;
 }
+
+@media screen and (max-width: 1728px) {
+    *{
+        font-family: 'Poppins', sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    p{
+        font-size: 30;
+    }
+}
+
+@media screen and (max-width: 1368px) {
+    *{
+        font-family: 'Poppins', sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    p{
+        font-size: 30;
+    }
+}
