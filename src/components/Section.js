@@ -1,5 +1,5 @@
 import React from 'react'
-import evan from './assets/man.jpeg'
+import evan from './assets/evan.jpeg'
 import './styles/Section.css'
 
 
