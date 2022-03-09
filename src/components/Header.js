@@ -16,16 +16,13 @@ const Header = () => {
 
                 <ul className='ul-items'>
                     <li>
-                        <Link to='#'>Home</Link>
+                        <Link to='#Home'>Home</Link>
                     </li>
                     <li>
-                        <Link to='#'>About</Link>
+                        <Link to='#AboutMe'>About Me / Projects</Link>
                     </li>
                     <li>
-                        <Link to='#'>Projects</Link>
-                    </li>
-                    <li>
-                        <Link to='#'>Contact</Link>
+                        <Link to='#Contact'>Contact</Link>
                     </li>
 
                     <div className="hamburger-icon">

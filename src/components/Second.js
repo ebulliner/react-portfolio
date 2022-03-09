@@ -1,6 +1,7 @@
 import React from 'react'
 import './styles/Second.css'
 import probonopals from './assets/probonopals.png'
+import employeeTracker from './assets/employee-tracker.png'
 
 
 const Second = () => {
@@ -12,6 +13,13 @@ const Second = () => {
                     <a href="https://pro-bono-pals.herokuapp.com/">
                         <p>ProBonoPals Team Project Repo</p>
                     <img src={probonopals} alt="" />
+                    </a>
+                </div>
+                    
+                <div className="image-cont">
+                    <a href="https://github.com/ebulliner/bestemployeetracker">
+                        <p>Employee Tracker Back-End App Repo</p>
+                    <img src={employeeTracker} alt=""/>
                     </a>
                 </div>
 

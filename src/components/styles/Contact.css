@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&family=Duru+Sans&family=Lato:ital,wght@0,300;0,700;1,100&family=Montserrat:wght@200;600&family=Poppins:wght@100;400;500&family=Roboto+Mono&family=Roboto:wght@500;900&family=Rubik:wght@800&display=swap');
+
+
+.contact{
+    display: flex;
+    flex-direction: row;
+    background-color: #000000dc;
+}
+
+.contact h1{
+    margin: 50px ;
+}
+
+.heading{
+    color: rgb(163, 171, 172);
+    font-size: 3rem;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
