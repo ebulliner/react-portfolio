@@ -1,10 +1,10 @@
 import React from 'react'
-import './styles/Second.css'
+import './styles/Aboutme.css'
 import probonopals from './assets/probonopals.png'
 import employeeTracker from './assets/employee-tracker.png'
 
 
-const Second = () => {
+const Aboutme = () => {
     return (
         <section className='section-2'>
             <h1 className='about-me'>About Me</h1>
@@ -36,4 +36,4 @@ const Second = () => {
     )
 }
 
-export default Second
+export default Aboutme
