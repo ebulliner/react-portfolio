@@ -1,0 +1,3 @@
+- give the "hamburger icon functionality
+- make the styling look cleaner
+- make my project photo cards/links look cleaner

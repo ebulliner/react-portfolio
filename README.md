@@ -19,9 +19,9 @@
   ## Usage:
   To show off my skills and show that I'm employer ready!
 
-![Desktop homepage](/Users/evanbulliner/bootcamp/homework/react-portfolio/src/components/assets/homepage.png)
+![Desktop homepage](src/components/assets/homepage.png)
 
-![Desktop aboutme](/Users/evanbulliner/bootcamp/homework/react-portfolio/src/components/assets/about-me.png)
+![Desktop aboutme](src/components/assets/about-me.png)
   ## Contributing:
   N/A
   ## Tests:
