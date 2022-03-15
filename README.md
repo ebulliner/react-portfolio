@@ -23,7 +23,7 @@
 
 ![Desktop aboutme](src/components/assets/about-me.png)
   ## Contributing:
-  N/A
+  Used a template from a youtube video that I followed. Her name was elnfar and her github is https://github.com/elnfar 
   ## Tests:
   N/A
   ## Questions:
