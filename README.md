@@ -23,7 +23,7 @@
 
 ![Desktop aboutme](src/components/assets/about-me.png)
   ## Contributing:
-  Used a template from a youtube video that I followed. Her name was elnfar and her github is https://github.com/elnfar 
+  Used a template from a youtube video that I  got some help from. It explained a lot and answered a lot of questions that I had when it came to making this portfolio. Her name was elnfar and her github is https://github.com/elnfar 
   ## Tests:
   N/A
   ## Questions:
